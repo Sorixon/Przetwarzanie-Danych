@@ -8,8 +8,8 @@ Original file is located at
 """
 
 def sprawdz_sume(liczba1, liczba2, liczba3):
-    suma_dwóch_pierwszych = liczba1 + liczba2
-    return suma_dwóch_pierwszych >= liczba3
+    suma_dwoch_pierwszych = liczba1 + liczba2
+    return suma_dwoch_pierwszych >= liczba3
 
 arg1 = 5
 arg2 = 8
